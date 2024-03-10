@@ -1,7 +1,6 @@
 function top3RatedMoviesByCategory(category)
 {
-    // implementation here
-    //dadsa
+    console.log("hello world!")
     
 }
 
