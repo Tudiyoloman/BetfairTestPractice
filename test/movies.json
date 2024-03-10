@@ -1,43 +1,42 @@
 [
-    {
-      "title": "Inception",
-      "category": "Science Fiction",
-      "length": "148 minutes",
-      "rating": "PG-13",
-      "producer_name": "Christopher Nolan",
-      "release_year": 2010
-    },
-    {
-      "title": "The Shawshank Redemption",
-      "category": "Drama",
-      "length": "142 minutes",
-      "rating": "R",
-      "producer_name": "Frank Darabont",
-      "release_year": 1994
-    },
-    {
-      "title": "The Godfather",
-      "category": "Crime",
-      "length": "175 minutes",
-      "rating": "R",
-      "producer_name": "Francis Ford Coppola",
-      "release_year": 1972
-    },
-    {
-      "title": "Pulp Fiction",
-      "category": "Crime",
-      "length": "154 minutes",
-      "rating": "R",
-      "producer_name": "Quentin Tarantino",
-      "release_year": 1994
-    },
-    {
-      "title": "The Dark Knight",
-      "category": "Action",
-      "length": "152 minutes",
-      "rating": "PG-13",
-      "producer_name": "Christopher Nolan",
-      "release_year": 2008
-    }
-  ]
-  
+  {
+    "title": "Inception",
+    "category": "Science Fiction",
+    "length": "148 minutes",
+    "rating": 7.8,  
+    "producer_name": "Christopher Nolan",
+    "release_year": 2010
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "category": "Drama",
+    "length": "142 minutes",
+    "rating": 2.3,  
+    "producer_name": "Frank Darabont",
+    "release_year": 1994
+  },
+  {
+    "title": "The Godfather",
+    "category": "Crime",
+    "length": "175 minutes",
+    "rating": 2.2,  
+    "producer_name": "Francis Ford Coppola",
+    "release_year": 1972
+  },
+  {
+    "title": "Pulp Fiction",
+    "category": "Crime",
+    "length": "154 minutes",
+    "rating": 8.9,  
+    "producer_name": "Quentin Tarantino",
+    "release_year": 1994
+  },
+  {
+    "title": "The Dark Knight",
+    "category": "Crime",
+    "length": "152 minutes",
+    "rating": 8.4,  
+    "producer_name": "Christopher Nolan",
+    "release_year": 2008
+  }
+]
